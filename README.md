@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishal Kandale</h1>
 <h3 align="center">A passionate DevOps Engineer From India. I work in Corporate IT Sector</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 👨‍💻 All of my projects are available at [https://github.com/vishalkandale](https://github.com/vishalkandale)
 
